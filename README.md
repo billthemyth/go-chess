@@ -7,6 +7,6 @@ Is a chess game server.
 ## Objective
 
 * should create a original chess rules game.
-**  create a initial state of game
-**  rule for dont difusing parts. 
+* create a initial state of game
+* rule for dont difusing parts. 
 * should create a session for game. 
